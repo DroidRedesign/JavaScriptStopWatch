@@ -1,0 +1,43 @@
+body {
+    background: #ffa600;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+    height: 100%;
+}
+.container{
+    width: 800px;
+    margin: 30px auto;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.6em;
+    font-weight: 100;
+}
+
+#secs, #tens {
+    font-size: 2em;
+}
+
+button {
+    border-radius: 5px;
+    padding: 18px 10px;
+    width: 180px;
+    font-size: 1.2em;
+    cursor: pointer;
+    color: #ffffff;
+    background: #ffa600;
+    border: 1px solid #ffffff;
+    text-decoration: none;
+    margin: 10px;
+    outline: none;
+}
+
+button:hover {
+    color: #ffa600;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+}
