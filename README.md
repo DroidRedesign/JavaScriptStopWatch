@@ -6,7 +6,7 @@
 2. Stop
 3. Reset
 
-# Play around with some CSS to make it look pretty, and you’re all done!
+### Play around with some CSS to make it look pretty, and you’re all done!
 
 ![Screenshot 2024-01-14 204718](https://github.com/DroidRedesign/JavaScriptStopWatch/assets/156214098/9f656d0e-65ee-441f-8b9e-5fa0a2f06dba)
 
